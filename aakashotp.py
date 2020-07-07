@@ -1,6 +1,6 @@
 import requests
 print('Mister H')
-print('Follow on IG: @__mister_h__\nImportant: Only supports Indian Numbers\n')
+print('Follow on IG: @__mister_h__\nTelegram: @M15T3R_H\nTelegram Group: https://t.me/TermuxNewUser\nImportant: Only supports Indian Numbers\n')
 n=input("Enter 10-digit Number:")
 p=input("Number of OTPs(0 for unlimited):")
 try:
