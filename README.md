@@ -5,7 +5,7 @@ An OTP Bomber script using Aakash Institute servers.
 Don't forget to run 'pip install -r requirements.txt' before running.
 
 1. apt update
-2. apt install git python
+2. apt install git python -y
 3. git clone https://github.com/Misterr-H/aakashotp.git
 4. cd aakashotp
 5. pip install -r requirements.txt
